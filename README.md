@@ -1,4 +1,4 @@
-﻿Story Map Journal
+﻿Story Map Journal (working clone of ES)
 =================
 
 The Story Map Journal is ideal when you want to combine narrative text with maps and other embedded content. A Map Journal contains entries, or sections, that users simply scroll through. Each section in a Map Journal has an associated map, image, video or web page. Actions can also be defined in journal sections so that, for example, clicking a word automatically zooms the section’s map to a particular location.
