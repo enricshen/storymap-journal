@@ -10,6 +10,7 @@
 
 		<link type="image/ico" rel="shortcut icon" href="resources/tpl/viewer/icons/favicon.ico">
 		<link type="image/ico" rel="icon"  href="resources/tpl/viewer/icons/favicon.ico">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500" rel="stylesheet">
 
 		<!--
 			To correctly reference your Map Journal in search engine:
@@ -79,6 +80,24 @@
 	<body class="claro">
 		<style>
 			/* CUSTOM CSS RULES */
+			html * {
+   			font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+		}
+
+		.section a {
+    		color: #086A87;
+    	}
+
+		body.layout-float-left #floatingPanel {
+    		left: 1%;
+		}
+
+		/*hide app title on each section */
+		.sectionPanel .appTitle.anchored {
+    		max-height: 0px;
+    	}
+
+    	
 		</style>
 
 		<!-- Builder top panel is injected here -->
